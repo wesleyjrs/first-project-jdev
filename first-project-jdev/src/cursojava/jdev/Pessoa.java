@@ -10,6 +10,8 @@ public class Pessoa {
 	private String sexo;
 	private Date dtNascimento;
 	
+	private String endereco;
+	
 	public Pessoa() {
 		super();
 		// TODO Auto-generated constructor stub
